@@ -64,7 +64,6 @@ kubectl apply -f https://github.com/open-telemetry/opentelemetry-operator/releas
 ```bash
 kubectl apply -f ./backend/02-collector.yaml
 ```
-
 Restart the collector if config modified.
 
 # Install Otel operator
